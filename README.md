@@ -34,8 +34,7 @@ Os pinos IN1 e IN2 controlam a direção de rotação do motor.
 O botão conectado ao NodeMCU permite alternar entre diferentes níveis de velocidade.
 
 #  Instruções de montagem
-Conectar o pino D5 do NodeMCU ao pino EN1 do L293D.
-Conectar o pino D7 ao IN1 do L293D.
+Conectar o pino D9 do NodeMCU ao pino EN1 do L293D.
 Conectar o pino D8 ao IN2 do L293D.
 Conectar o motor DC nos pinos OUT1 e OUT2 do L293D.
 Conectar o botão ao pino D2 do NodeMCU.
