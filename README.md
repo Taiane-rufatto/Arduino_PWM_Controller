@@ -1,5 +1,4 @@
-# Controle de Velocidade de Motor DC com PWM utilizando NodeMCU e L293D
-
+# Controle de Velocidade de Motor 
 ## Índice
 
 1. [Introdução ao PWM](#introdução-ao-pwm)
