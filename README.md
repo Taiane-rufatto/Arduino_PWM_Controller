@@ -4,8 +4,7 @@
 1. [Introdução ao PWM](#introdução-ao-pwm)
 2. [Componentes necessários](#componentes-necessários)
 3. [Esquemático](#esquemático)
-4. [Instruções de montagem](#instruções-de-montagem)
-5. [Funcionamento do projeto](#funcionamento-do-projeto)
+4. [Funcionamento do projeto](#funcionamento-do-projeto)
 
 # Introdução ao PWM
 
@@ -32,14 +31,6 @@ O sinal PWM é enviado ao pino EN1 do L293D para controle da velocidade do motor
 Os pinos IN1 e IN2 controlam a direção de rotação do motor.
 O botão conectado ao NodeMCU permite alternar entre diferentes níveis de velocidade.
 
-#  Instruções de montagem
-Conectar o pino D9 do NodeMCU ao pino EN1 do L293D.
-Conectar o pino D8 ao IN2 do L293D.
-Conectar o motor DC nos pinos OUT1 e OUT2 do L293D.
-Conectar o botão ao pino D2 do NodeMCU.
-Alimentar o circuito com 5V.
-Compilar o código no PlatformIO.
-Gerar o arquivo .hex e importar no Proteus.
 
 # Funcionamento do projeto
 
